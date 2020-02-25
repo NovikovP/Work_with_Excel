@@ -1,8 +1,0 @@
-C:\Users\succe\Desktop\Excel_test\Excel_test\bin\Debug\Excel_test.exe
-C:\Users\succe\Desktop\Excel_test\Excel_test\bin\Debug\Excel_test.pdb
-C:\Users\succe\Desktop\Excel_test\Excel_test\obj\Debug\Excel_test.Form1.resources
-C:\Users\succe\Desktop\Excel_test\Excel_test\obj\Debug\Excel_test.Properties.Resources.resources
-C:\Users\succe\Desktop\Excel_test\Excel_test\obj\Debug\ExcelCreateWinForm.csproj.GenerateResource.cache
-C:\Users\succe\Desktop\Excel_test\Excel_test\obj\Debug\ExcelCreateWinForm.csproj.CopyComplete
-C:\Users\succe\Desktop\Excel_test\Excel_test\obj\Debug\Excel_test.exe
-C:\Users\succe\Desktop\Excel_test\Excel_test\obj\Debug\Excel_test.pdb
